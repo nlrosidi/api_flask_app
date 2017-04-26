@@ -1,4 +1,4 @@
-# api_flask_app
+# An API Manager for all your APIs
 A lean API that manages all your other APIs. Written in python using the Flask framework.
 
 ## Description
